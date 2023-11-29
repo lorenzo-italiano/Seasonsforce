@@ -89,3 +89,7 @@ Varying levels of candidate information access based on subscription plans.
 ### CI/CD:
 
 - Implementation of CI/CD using GitHub Actions.
+
+---
+
+@ Romain Frezier & Lorenzo Italiano - IG5 Polytech Montpellier - 2023
