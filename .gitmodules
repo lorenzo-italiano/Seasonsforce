@@ -1,9 +1,12 @@
 [submodule "seasonsforce-docs"]
 	path = seasonsforce-docs
 	url = https://github.com/lorenzo-italiano/seasonsforce-docs
+	branch = main
 [submodule "seasonsforce-microservices"]
 	path = seasonsforce-microservices
 	url = https://github.com/lorenzo-italiano/seasonsforce-microservices
+	branch = main
 [submodule "seasonsforce-frontend"]
 	path = seasonsforce-frontend
 	url = https://github.com/lorenzo-italiano/seasonsforce-frontend
+	branch = main
